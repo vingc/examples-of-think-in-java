@@ -1,0 +1,20 @@
+<HTML>
+<HEAD>
+<META CONTENT="text/html">
+<TITLE>
+Add Yourself to Bruce Eckel's Java Mailing List
+</TITLE>
+</HEAD>
+<BODY LINK="#0000ff" VLINK="#800080" BGCOLOR="#ffffff">
+<FONT SIZE=6><P>
+Add Yourself to Bruce Eckel's Java Mailing List
+</P></FONT>
+The applet on this page will automatically add your email address to the mailing list, so you will receive update information about changes to the online version of "Thinking in Java," notification when the book is in print, information about upcoming Java seminars, and notification about the ¡°Hands-on Java Seminar¡± Multimedia CD. Type in your email address and press the button to automatically add yourself to this mailing list. <HR>
+<applet code=NameSender width=400 height=100>
+</applet>
+<HR>
+If after several tries, you do not get verification it means that the Java application on the server is having problems. In this case, you can add yourself to the list by sending email to
+<A HREF="mailto:Bruce@EckelObjects.com">
+Bruce@EckelObjects.com</A>
+</BODY>
+</HTML>
